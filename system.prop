@@ -4,4 +4,4 @@ rild.libargs=-d /dev/ttyS0
 keyguard.no_require_sim=true
 ro.carrier=wifi-only
 # tvdpi
-ro.sf.lcd_density=213
+ro.sf.lcd_density=182
