@@ -1,4 +1,2 @@
-system/bin/rild
-system/lib/libril.so
 system/lib/libsec-ril.so
 system/lib/libsec-ril-apalone.so
