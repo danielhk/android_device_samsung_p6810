@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2012 The CyanogenMod Project
+# Copyright (C) 2014 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -30,4 +30,4 @@ PRODUCT_NAME := cm_p6810
 PRODUCT_RELEASE_NAME := GT-P6810
 
 # Set product name and build fingerprint
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-P6810 BUILD_FINGERPRINT="samsung/GT-P6810/GT-P6810:4.0.4/IMM76D/XXLPK:user/release-keys" PRIVATE_BUILD_DESC="GT-P6810-user 4.0.4 IMM76D XXLPK release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-P6810 BUILD_FINGERPRINT="samsung/GT-P6810/GT-P6810:4.3.1/JLS36I:user/release-keys" PRIVATE_BUILD_DESC="GT-P6810-user 4.3.1 JLS36I release-keys"
