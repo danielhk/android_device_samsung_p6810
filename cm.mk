@@ -22,7 +22,7 @@ TARGET_SCREEN_WIDTH := 1280
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_BRAND := Samsung
+PRODUCT_BRAND := GalaxyTab
 PRODUCT_DEVICE := p6810
 PRODUCT_MANUFACTURER := Samsung
 PRODUCT_MODEL := GT-P6810
@@ -30,4 +30,4 @@ PRODUCT_NAME := cm_p6810
 PRODUCT_RELEASE_NAME := GT-P6810
 
 # Set product name and build fingerprint
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-P6810 BUILD_FINGERPRINT="samsung/GT-P6810/GT-P6810:4.3.1/JLS36I:user/release-keys" PRIVATE_BUILD_DESC="GT-P6810-user 4.3.1 JLS36I release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-P6810 BUILD_FINGERPRINT="samsung/GalaxyTab/GT-P6810:6.0.0/MDB08M:userdebug/release-keys" PRIVATE_BUILD_DESC="GT-P6810-userdebug 6.0.0 MDB08M release-keys"
