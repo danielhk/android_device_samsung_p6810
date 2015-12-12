@@ -23,6 +23,7 @@ DEVICE_RESOLUTION := 1280x800
 
 # Inherit device configuration
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
+$(call inherit-product, vendor/omni/config/common_tablet.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_BRAND := GalaxyTab
